@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Colton Herrod! 👋
 
-<!--
-**ColtonHerrod/ColtonHerrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a strong interest in cloud computing, infrastructure automation, and open-source contributions. I enjoy solving complex problems and creating efficient, scalable, and maintainable solutions.
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- **[blog](https://github.com/ColtonHerrod/blog)**: Personal website source code.
+- **[Apple Books Packager](https://github.com/ColtonHerrod/Apple-Books-Packager)**: Small utility for interacting with Apple Books and pushing DRM-free ebooks to e-readers.
+- **[numismatic](https://github.com/ColtonHerrod/numismatic)**: Very early-stage utility for coin tracking and interacting with numisma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Local app development (Swift, Rust)
+- Container orchestration with k8s
+
+## 💬 Ask Me About
+- Cloud computing and infrastructure
+- Infrastructure automation
+- DevOps and CI/CD practices
+
+## 📫 How to Reach Me
+- Email: [colton@herrod.net](mailto:colton@herrod.net)
+- LinkedIn: [Colton Herrod](https://www.linkedin.com/in/colton-herrod-76a68693/)
+
+## 📈 GitHub Stats
+![ColtonHerrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColtonHerrod&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![ColtonHerrod's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ColtonHerrod&theme=radical)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+---
+⭐️ From [ColtonHerrod](https://github.com/ColtonHerrod)
