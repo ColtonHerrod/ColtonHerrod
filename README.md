@@ -3,12 +3,12 @@
 I'm a passionate software developer with a strong interest in cloud computing, infrastructure automation, and open-source contributions. I enjoy solving complex problems and creating efficient, scalable, and maintainable solutions.
 
 ## 🔭 Current Projects
+- **[amtrak-api](https://github.com/ColtonHerrod/amtrak-api)**: Formerly deprecated project I've taken over that provides an Amtrak train status dashboard.
 - **[blog](https://github.com/ColtonHerrod/blog)**: Personal website source code.
 - **[Apple Books Packager](https://github.com/ColtonHerrod/Apple-Books-Packager)**: Small utility for interacting with Apple Books and pushing DRM-free ebooks to e-readers.
-- **[numismatic](https://github.com/ColtonHerrod/numismatic)**: Very early-stage utility for coin tracking and interacting with numisma.
 
 ## 🌱 Currently Learning
-- Local app development (Swift, Rust)
+- Local app development (Golang)
 - Container orchestration with k8s
 
 ## 💬 Ask Me About
