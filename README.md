@@ -4,7 +4,7 @@ I'm a passionate software developer with a strong interest in cloud computing, i
 
 ## 🔭 Current Projects
 - **[amtrak-api](https://github.com/ColtonHerrod/amtrak-api)**: Formerly deprecated project I've taken over that provides an Amtrak train status dashboard.
-- **[blog](https://github.com/ColtonHerrod/blog)**: Personal website source code.
+- **[deployview](https://github.com/ColtonHerrod/deployview)**: Golang learning experiment that provides cross-account insights into AWS CodeDeploy deployments.
 - **[Apple Books Packager](https://github.com/ColtonHerrod/Apple-Books-Packager)**: Small utility for interacting with Apple Books and pushing DRM-free ebooks to e-readers.
 
 ## 🌱 Currently Learning
